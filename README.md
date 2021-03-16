@@ -1,2 +1,3 @@
 Dasboard Project w/Traffic Data
-!()[https://git.heroku.com/sf-crime-solitaire.git]
+
+[https://sf-crime-solitaire.herokuapp.com/]
